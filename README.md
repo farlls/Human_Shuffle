@@ -5,7 +5,7 @@
 
 A dynamic web application for exploring randomly generated user profiles, featuring a visually engaging interface with real-time search, multi-faceted filtering, and sorting capabilities.
 
-[**View Live Demo**](https://www.google.com/search?q=https://human-shuffle-nama-anda.vercel.app/)
+[**View Live Demo**](https://human-shuffle.vercel.app/)
 
 
 -----
